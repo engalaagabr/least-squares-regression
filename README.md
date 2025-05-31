@@ -16,10 +16,6 @@ A modern Tkinter-based GUI application that performs **Least Squares Linear Regr
 
 ---
 
-## 🖼️ Demo
-
-
----
 
 ## 📦 Requirements
 
